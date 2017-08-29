@@ -1,0 +1,46 @@
+
+/* 
+    Created on : Aug 29, 2017, 11:02:50 AM
+    Author     : Rasika
+*/
+
+#header
+{  position:relative;
+   height:100px;
+    width: 100%;
+    background-color:white;
+    border-bottom: 5px;
+    margin-bottom: 10px
+    }
+
+p.address {
+    text-align: center;         
+      	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: black;  
+        left: 50%;
+}
+
+a:visited{
+    color: black;
+}
+h2 {    color:background;
+    border-bottom:solid;
+    }
+
+    ul.list{
+        list-style-type: square;
+    }
+    ul.list1{
+        list-style-type: none;
+    }
+    ul.list2{
+        list-style-type: square;
+    }
+    ul.list3{
+        list-style-type: square;
+    }
+    body{
+        background-color: beige;
+    }
